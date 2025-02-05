@@ -1,4 +1,4 @@
-package com.techademy.assignments;
+package com.techademy.assignments0302;
 
 abstract class Shape {
  public abstract void draw();
